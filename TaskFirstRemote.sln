@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFirstRemote", "TaskFirstRemote\TaskFirstRemote.csproj", "{F2D2124A-4056-49EE-BC3A-D731E5F4ADC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskFirstRemote", "TaskFirstRemote\TaskFirstRemote.csproj", "{F2D2124A-4056-49EE-BC3A-D731E5F4ADC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFirstRemoteTest", "TaskFirstRemoteTest\TaskFirstRemoteTest.csproj", "{05E66A2A-7CD0-4E78-BAB8-E3C4E5490C1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F2D2124A-4056-49EE-BC3A-D731E5F4ADC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2D2124A-4056-49EE-BC3A-D731E5F4ADC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2D2124A-4056-49EE-BC3A-D731E5F4ADC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E66A2A-7CD0-4E78-BAB8-E3C4E5490C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E66A2A-7CD0-4E78-BAB8-E3C4E5490C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E66A2A-7CD0-4E78-BAB8-E3C4E5490C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E66A2A-7CD0-4E78-BAB8-E3C4E5490C1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
